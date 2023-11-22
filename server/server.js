@@ -10,3 +10,10 @@ app.use(express.json());
 require('./routes/htmlRoutes')(app);
 
 app.listen(PORT, () => console.log(`Now listening on port: ${PORT}`));
+
+
+// TODOs in:
+// client/js/database.js 
+// client/js/install.js
+// client/src-sw.js
+// client/webpack.config.js

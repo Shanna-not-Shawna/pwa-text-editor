@@ -28,3 +28,6 @@ module.exports = () => {
     },
   };
 };
+
+
+// set up tooling for web environment in this file

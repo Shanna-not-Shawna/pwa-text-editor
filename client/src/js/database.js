@@ -18,4 +18,5 @@ export const putDb = async (content) => console.error('putDb not implemented');
 // TODO: Add logic for a method that gets all the content from the database
 export const getDb = async () => console.error('getDb not implemented');
 
+// id = 1 use only 1 key with an id of 1 in indexedDB
 initdb();
